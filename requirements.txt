@@ -1,1 +1,3 @@
+packages==0.1.0
 pygame==2.1.2
+-e git+ssh://git@github.com/lumivalsa/Shoot-Em-Up.git@0b9365e1db7a3ff3b8d93036a5a6cc3418dce9e3#egg=shmup
